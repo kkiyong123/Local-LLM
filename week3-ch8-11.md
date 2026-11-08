@@ -1,7 +1,5 @@
 # 로컬 AI 스터디 3주차 정리 (CH8\~11)
 
-Nov 8, 2026 · @Kiyong Kang
-
 11/4 3주차 스터디. 교재 Part 2 마지막 CH8\~11. 지난주까지 만든 파이썬 + Ollama 호출에 웹 UI(Streamlit)와 음성 인식(MLX Whisper)을 붙여서 드디어 "말로 질문하는 로컬 AI 챗봇"이 됨. 순서는 CH8 웹 UI → CH9 오디오 → CH10 둘을 합친 음성 챗봇 → CH11 Streamlit의 단점(매번 처음부터 재실행)을 세션 상태로 보완. 오늘부터는 좀 써먹을 만한 앱 느낌.
 
 ## CH8. Streamlit 웹 UI
